@@ -3,8 +3,7 @@
     <div id="nav">
       <router-link to="/">Home &nbsp;</router-link>|
       <router-link to="/cats">&nbsp; Cats &nbsp;</router-link>|
-      <router-link to="/dogs">&nbsp; Dogs &nbsp;</router-link>|
-      <router-link to="/pet">&nbsp; Pet &nbsp;</router-link>
+      <router-link to="/dogs">&nbsp; Dogs &nbsp;</router-link>
     </div>
     <b-container>
       <router-view />
